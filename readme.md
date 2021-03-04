@@ -1,7 +1,7 @@
 ---------
 # PATIENT			
 ---------
-
+```
 {nom:'Antoine Gomis', ssn:'101-00-2253',adresse:'Dakar Plateau', naissance:'1998-03-18'}
 
 {nom:'Maurine Diom', ssn:'111-77-2507',adresse:'Liberté 6 extension', naissance:'2000-06-13'}
@@ -11,9 +11,7 @@
 {nom:'Awa Faye', ssn:'111-33-0087',adresse:'Liberté 2', naissance:'1988-07-09'}
 
 {nom:'Awa Faye', ssn:'209-99-3587',adresse:'Cité Keur Gorgui', naissance:'2000-01-30'}
-
-
-
+```
 
 
 ------
@@ -44,14 +42,6 @@
 
 {nom:'essoufflement', description:'Difficultés à respirer'}
 ```
-
-
-
-
-
-
-
-
 
 
 -----
