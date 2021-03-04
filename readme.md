@@ -1,6 +1,6 @@
-##############################################################################
-################ 		PATIENT				##############
-##############################################################################
+---------
+# PATIENT			
+---------
 
 {nom:'Antoine Gomis', ssn:'101-00-2253',adresse:'Dakar Plateau', naissance:'1998-03-18'}
 
@@ -16,10 +16,10 @@
 
 
 
-##############################################################################
-#####################		SYMPTOMES 			##############
-##############################################################################
-
+------
+# SYMPTOMES
+------
+```
 {nom:'vomissement', description:'Expulsion énergique du contenu de l'estomac par la bouche'}
 
 {nom:'brûlure d'estomac', description:'Douleur cuisante ou gêne dans la partie supérieure et moyenne du thorax, impliquant éventuellement le cou et la gorge, qui peut s'aggraver en position couchée'}
@@ -43,6 +43,7 @@
 {nom:'toux sèche', description:'Son de toux sèche, brusque, et énergique permettant d'expulser de l'air et de se débarrasser d'une irritation dans la gorge ou dans les voies respiratoires'}
 
 {nom:'essoufflement', description:'Difficultés à respirer'}
+```
 
 
 
@@ -53,14 +54,14 @@
 
 
 
-##############################################################################
-###################### 		MALADIES			##############
-##############################################################################
-
+-----
+# MALADIES
+-----
+```
 {nom: 'Ulcère', description: 'Lésion qui se développe sur les parois de l'œsophage, de l'estomac ou de l'intestin grêle.'}
 
 {nom: 'Paludisme', description: 'Maladie provoquée par le parasite Plasmodium et transmise par une piqûre de moustique infecté.'}
 
 {nom: 'Coronavirus', description: 'La COVID-19 affecte les individus de différentes manières. La plupart des personnes infectées développent une forme légère et modérée de la maladie et guérissent sans hospitalisation.'} 
-
+```
 
